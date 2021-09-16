@@ -21,15 +21,37 @@ In just over 40 years, Ontario has grown to be the largest DECA association in t
 
 ## Website Pages 
 
-Please feel free to take a look at some of the pages I built on deca.ca! 
+I redesigned over 40 pages on deca.ca using custom HTML and CSS. Please feel free to take a look at some samples of my work! 
 
 ### 2020-2021 Provincial Executive Officers 
 
 ![Ontairo DECA Provincial Officers](/gifs/DECA_POs.gif)
 
+### Ontario DECA Officer History 
 
-### 2020-2021 Ontario DECA Board of Directors 
+![Ontairo DECA Officer History](/gifs/DECA_HBO.gif)
+
+### Ontario DECA Board of Directors 
 
 ![Ontairo DECA Board of Directors](/gifs/DECA_BOD.gif)
 
+### Events Page 
+
+![Ontairo DECA Events](/gifs/DECA_Events.gif)
+
+### ICDC Page 
+
+![Ontairo DECA ICDC](/gifs/DECA_ICDC.gif)
+
+### Partners Page 
+
+![Ontairo DECA Partners](/gifs/DECA_Partners.gif)
+
+### Competitive Events Page 
+
+![Ontairo DECA Competitive Events](/gifs/DECA_CE.gif)
+
+### Contact Page 
+
+![Ontairo DECA Contact](/gifs/DECA_Contact.gif)
 
