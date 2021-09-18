@@ -1,10 +1,10 @@
 # Ontario DECA's Official Website, deca.ca
 My work as the Lead Front-End Developer and Media Offficer of Ontario DECA!  
 
-![Ontairo DECA Home Display](/gifs/DECA_Home_Display.gif)
-
-**NOTE:** 
+#### **NOTE:** 
 Unfortunately [deca.ca](http://deca.ca/) is currently in maintenance mode to prepare for the competitive season starting in November.   
+
+![Ontairo DECA Home Display](/gifs/DECA_Home_Display.gif)
 
 ## Home Page 
 This is the landing page of Ontario DECA official website, [deca.ca](http://deca.ca/). This site is hosted on WordPress, the world's most popular website builder. 42% of the web (over 455 million sites ) is built on WordPress. WordPress runs on PHP and is paired with a MySQL database. 
