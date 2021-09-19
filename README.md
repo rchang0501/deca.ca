@@ -1,5 +1,5 @@
 # Ontario DECA's Official Website, deca.ca
-My work as the Lead Front-End Developer and Media Offficer of Ontario DECA!  
+My work as the Lead Full-Stack Developer and Media Offficer of Ontario DECA!  
 
 #### **NOTE:** 
 Unfortunately [deca.ca](http://deca.ca/) is currently in maintenance mode to prepare for the competitive season starting in November.   
